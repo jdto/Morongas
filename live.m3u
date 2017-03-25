@@ -89,65 +89,7 @@ http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,DW LATINOAMERICA
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1,ABC NEWS 1 - NTV - Nationwide TV - DC Dis Columbia
- 
-#EXTINF:-1,FOX 23 NEWS
- 
-#EXTINF:-1,BLOOMBERG
- 
-#EXTINF:-1,KCAL 9 LOS ANGELES - CA CALIFORNIA
- 
-#EXTINF:-1,NASA HD Media - NTV - Nationwide TV - DC Dis Columbia
- 
-#EXTINF:-1,CAPITAL TV US
- 
-#EXTINF:-1,RT DOCUMENTARY
- 
-#EXTINF:-1,M2OTV
- 
-#EXTINF:-1,NEWSMAX TV
- 
-#EXTINF:-1,FRANCE 24
- 
-#EXTINF:-1,PRESS TV
- 
-#EXTINF:-1,CCTV
- 
-#EXTINF:-1,JUCE TV - NTV - Nationwide TV - DC Dis Columbia
- 
-#EXTINF:-1,C-SPAN 3
- 
-#EXTINF:-1,RT US
- 
-#EXTINF:-1,TV ONE
- 
-#EXTINF:-1,RT INTERNATIONAL
- 
-#EXTINF:-1,TWIT LIVE
- 
-#EXTINF:-1,MILK TV
- 
-#EXTINF:-1,BETO TV
- 
-#EXTINF:-1,CBS NEWS
- 
-#EXTINF:-1,C-SPAN
- 
-#EXTINF:-1,C-SPAN 2
- 
-#EXTINF:-1,C-SPAN 3
- 
-#EXTINF:-1,CBSN
- 
-#EXTINF:-1,BBC WORLD
- 
-#EXTINF:-1,AMAZING FACTS TV
- 
-#EXTINF:-1,VIRGIN TV
- 
-#EXTINF:-1,TRT WORLD
- 
-#EXTINF:-1,NEWSMAX TV - NTV - Nationwide TV - DC Dis Columbia
+
  
 #EXTINF:-1,Mi Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
