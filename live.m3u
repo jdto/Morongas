@@ -1,7 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,UNIVISION ABAJO 
+rtmp://$OPT:rtmp-raw=rtmp://5.63.144.244/live playpath=asdfchhivas?id=199564 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/asdfchhivas/1/600/400 Conn=S:OK
+#EXTINF:0,SPORTS:TDN
+rtmp://$OPT:rtmp-raw=rtmp://146.185.25.74/live playpath=tdnplaneta?id=13927 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/tdnplaneta/1/620/382 Conn=S:OK
+#EXTINF:0,SPORTS:UNIVISION  TDN
+rtmp://$OPT:rtmp-raw=rtmp://146.185.23.154/live playpath=unitdndep?id=13928 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/unitdndep/1/620/382 Conn=S:OK
+#EXTINF:-1,UNIVISION  
 http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,3 ABN LATINO
 http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
