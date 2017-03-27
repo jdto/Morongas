@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0,SKY SPORT 1 HD
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/68.ts
+#EXTINF:0,BEIN SPORTS 1 HD FRANCUSKA
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/79.ts
+#EXTINF:0,ARENA SPORT 1 HD HR
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/54.ts
+#EXTINF:0, ARENA SPORT 2 HD HR
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/55.ts
+#EXTINF:0, ARENA SPORT 3 HD HR
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/56.ts
+#EXTINF:0, ARENA SPORT 4 HD HR
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/57.ts
+#EXTINF:0, ARENA SPORT 5 HD HR
+http://62.210.93.93:8000/live/izvolite/izvolitedrug/58.ts
+
 #EXTINF:0,CINECANAL
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
 #EXTINF:-1,TELEMUNDO
