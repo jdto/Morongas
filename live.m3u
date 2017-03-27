@@ -13,7 +13,8 @@ http://62.210.93.93:8000/live/izvolite/izvolitedrug/56.ts
 http://62.210.93.93:8000/live/izvolite/izvolitedrug/57.ts
 #EXTINF:0, ARENA SPORT 5 HD HR
 http://62.210.93.93:8000/live/izvolite/izvolitedrug/58.ts
-
+#EXTINF:0 type="favorites" tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" , LAS ESTRELLAS México
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:0,CINECANAL
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
 #EXTINF:-1,TELEMUNDO
