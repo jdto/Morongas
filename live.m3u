@@ -5,8 +5,10 @@ http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3
 rtmp://podi.hopper.pw:443/live/live_unimas12
 #EXTINF:-1,Univision Deportes-US
 http://supervip.mine.nu:36000/live/LQdrRoNtZs/nXYrzXXSfu/12518.ts
-#EXTINF:-1,UNIVISION  
+#EXTINF:-1,UNIVISION 
 http://iphone-streaming.ustream.tv/uhls/22534666/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Azteca 13 (TDT)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,3 ABN LATINO
 http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
 #EXTINF:-1,SUN CHANNEL
