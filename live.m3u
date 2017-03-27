@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,CINECANAL
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
 #EXTINF:-1,TELEMUNDO
 http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id=”Unimas” tvg-logo=”unimas.png” group-title=”Variedades – Latinos”,UniMas USA
